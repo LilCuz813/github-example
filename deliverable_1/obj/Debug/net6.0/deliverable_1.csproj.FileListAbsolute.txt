@@ -1,0 +1,5 @@
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.csproj.AssemblyReference.cache
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.AssemblyInfoInputs.cache
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.AssemblyInfo.cs
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.csproj.CoreCompileInputs.cache

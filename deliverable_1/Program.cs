@@ -1,0 +1,41 @@
+﻿using System;
+
+public class Program
+{
+    public static void Main(int[] args, object bread, object peanutbutter, object jelly, object jar, object loaf)
+    {
+        Console.Write("How many people are we making PB&J sandwiches for? (integer people)");
+        int people = int.Parse(Console.ReadLine());
+
+        int breadSlices = people * 2;
+
+        int jellyteaspoons = people * 4;
+
+        int peanutbuttertablespoons = people * 2;
+
+        int breadSlices /  
+
+        Console.Write("Please enter a number for people: ");
+        
+        Console.Write("How many slices of bread do you need? (integer slices of bread)");
+        int slices = bread = int.Parse(Console.ReadLine());
+
+        Console.Write("How many tablespoons of peanut butter do you need? (integer tablespoons of peanutbutter)");
+        int tablespoons = peanutbutter = int.Parse(Console.ReadLine());
+
+        Console.Write("How many teaspoons of jelly do you need? (integer teaspoons of jelly)");
+        int teaspoons = jelly = int.Parse(Console.ReadLine());
+
+        Console.Write("How many loaves of bread do you need? (interger loaf of bread)");
+        int loaves = bread = int.Parse(Console.ReadLine));
+
+        Console.Write("How many jars of peanutbutter do you need? (interger jar of peanutbutter)");
+        int jar = peanutbutter = int.Parse(Console.ReadLine));
+
+        Console.Write("How many jars of jelly do you need? (interger jar of jelly)");
+        int jar = jelly = int.Parse(Console.ReadLine));
+
+        Console.WriteLine("Would you like to start over? Enter 'y' or 'yes' or enter  any of key to exit." + result);
+
+    }
+}
