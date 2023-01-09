@@ -3,3 +3,13 @@
 /Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.AssemblyInfoInputs.cache
 /Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.AssemblyInfo.cs
 /Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.csproj.CoreCompileInputs.cache
+/Users/CTown813/Projects/deliverable_1/bin/Debug/net6.0/deliverable_1
+/Users/CTown813/Projects/deliverable_1/bin/Debug/net6.0/deliverable_1.deps.json
+/Users/CTown813/Projects/deliverable_1/bin/Debug/net6.0/deliverable_1.runtimeconfig.json
+/Users/CTown813/Projects/deliverable_1/bin/Debug/net6.0/deliverable_1.dll
+/Users/CTown813/Projects/deliverable_1/bin/Debug/net6.0/deliverable_1.pdb
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.dll
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/refint/deliverable_1.dll
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.pdb
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/deliverable_1.genruntimeconfig.cache
+/Users/CTown813/Projects/deliverable_1/obj/Debug/net6.0/ref/deliverable_1.dll
