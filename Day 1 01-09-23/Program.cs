@@ -19,7 +19,7 @@ static void Main(string[] args)
 
     if (friend == "Family")
     {
-        myName = "Chris";
+        myName = "Chris Washington";
     }
     else if (friend == "Dre")
     {
